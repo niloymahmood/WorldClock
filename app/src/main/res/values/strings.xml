@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">World Clock</string>
+    <string name="sydney">Sydney</string>
+    <string name="london">London</string>
+    <string name="dhaka">Dhaka</string>
+    <string name="newyork">New York</string>
+    <string name="rome">Rome</string>
+
+
+
+</resources>
